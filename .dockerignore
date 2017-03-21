@@ -1,0 +1,6 @@
+.git
+.kitchen
+.vagrant
+codeship-services.yml
+codeship-steps.yml
+Vagrantfile

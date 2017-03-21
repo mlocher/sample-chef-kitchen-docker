@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  kitchen:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    add_docker: true
